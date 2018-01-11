@@ -1,0 +1,3 @@
+com\umpay\autotest\AbstractBaseTest.class
+com\umpay\autotest\dataprovider\BaseDataProvider.class
+com\umpay\autotest\dataprovider\TestDemoDataProvider.class
