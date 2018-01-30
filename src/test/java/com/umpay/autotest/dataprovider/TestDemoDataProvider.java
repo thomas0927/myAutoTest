@@ -42,7 +42,7 @@ public class TestDemoDataProvider extends BaseDataProvider {
 	public static Object[][] reqData() throws Exception {
 		//RS to object
 		return new Object[][] {
-			new Object[] {new Object[] { "{rule}","{input}","{url}","{environment params}","我的第一个自动化测试Demo" }},
+			new Object[] {new Object[] { "{expected}","{input}","{url}","{environment params}","我的第一个自动化测试Demo" }},
 		};
 	}
 }
